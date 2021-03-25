@@ -4,6 +4,7 @@
 
 The SpellChecker is an app used as An orthographic corrector that detects a word is wrong in the dictionary.
 
+<img width="733" alt="corrector" src="https://user-images.githubusercontent.com/22181825/112456068-ab925880-8d5a-11eb-814f-88f9f73d4a62.png">
 
 
 ## Technologies
